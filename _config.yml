@@ -22,13 +22,13 @@ repository               : "debkanikagupta/debkanikagupta.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "download.png"
   name             : "Debkanika Gupta"
   pronouns         : "she/her"  
   bio              : "PhD Student"
   location         : #"Earth"
   employer         : "Newcastle University"
-  uri              : # URL
+  uri              : "https://www.ncl.ac.uk/business/people/profile/gupta-debkanika.html"
   email            : "d.gupta3@newcastle.ac.uk" 
 
   # Academic websites
