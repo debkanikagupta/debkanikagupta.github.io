@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Debkanika Gupta"
-  pronouns         :  example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "PhD Student"
   location         : #"Earth"
   employer         : "Newcastle University"
