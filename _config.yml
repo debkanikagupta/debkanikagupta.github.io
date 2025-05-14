@@ -204,7 +204,49 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+# These settings control how pages and collections are included in the site
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      output: false
 
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      output: false
+
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      output: false
+
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      output: false
+
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      output: false
+
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      output: false
 header:
   - title: "Portfolio"
     url: /portfolio/
