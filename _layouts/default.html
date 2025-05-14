@@ -1,4 +1,3 @@
-
 {% include base_path %}
 
 <!doctype html>
@@ -12,7 +11,9 @@
 
     {% include browser-upgrade.html %}
 
-    {{ content }}
+    <div style="{% if page.permalink == '/' %}font-size: 12pt;{% endif %}">
+      {{ content }}
+    </div>
 
     <div class="page__footer">
       <footer>
