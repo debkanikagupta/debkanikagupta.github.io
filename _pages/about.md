@@ -1,13 +1,23 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I hold a PhD in Economics from [Newcastle University](https://www.ncl.ac.uk/business/people/profile/gupta-debkanika.html) pending minor corrections, with a research specialisation in macroeconomics, particularly applied to emerging economies. I am proficient in both theoretical and empirical methodologies. I have a master's and bachelor's in economics, with a minor in statistics and mathematics. 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My teaching portfolio spans undergraduate and postgraduate levels. I have contributed to teaching as a seminar leader, lecture developer, and marker across various courses at Newcastle University, mainly in macroeconomics. My commitment to high-quality teaching has been recognised through the award of Associate Fellowship of the Higher Education Academy (AFHEA). I have also helped with outreach programmes at Newcastle University as a postgraduate panelist. 
+
+ 
+I have a growing publication record (one published, two submitted, and one policy report) and have presented my work at several major conferences across the world. I have received accolades such as First Prize for Best Poster Presentation at Newcastle University’s Doctoral Conference (2024). I have also received two scholarships, a conference grant and am awaiting the outcome of two fellowships.  
+ 
+I  have managed multiple research assistance projects under senior academics such as Professors Giorgio Fazio, Sugata Marjit, and Simon Hussain. I have independently planned and organised two international academic conferences. I have contributed to departmental service through roles such as PhD student representative and university panelist for outreach programmes.  
+ 
+Future Research: Over the last decade, trade disruptions like the US-China trade war, COVID-19, Brexit, and tariffs given the presidential elections of the US have placed the UK at the center of a perfect storm. I plan to develop multi-country DSGE models and Structural Bayesian VARs to analyse these issues, with three research papers in mind. 
+
+Here is my [CV](/files/Debkanika_CV%20(10).pdf).
 
 A data-driven personal website
 ======
