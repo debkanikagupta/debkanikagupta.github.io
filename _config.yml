@@ -12,7 +12,9 @@ site_theme               : "default"
 title                    : "Debkanika Gupta"
 title_separator          : "-"
 name                     : &name "Debkanika Gupta"
-description              : &description "personal description"
+description              : &description "I hold a PhD in Economics from Newcastle University pending minor corrections, with a research specialisation in macroeconomics, particularly applied to emerging economies. I am proficient in both theoretical and empirical methodologies. I have a master's and bachelor's in economics, with a minor in statistics and mathematics. My teaching portfolio spans undergraduate and postgraduate levels.\\ I have contributed to teaching as a seminar leader, lecture developer, and marker across various courses at Newcastle University, mainly in macroeconomics. My commitment to high-quality teaching has been recognised through the award of Associate Fellowship of the Higher Education Academy (AFHEA). I have also helped with outreach programmes at Newcastle University as a postgraduate panelist.\\ I have a growing publication record (one published, two submitted, and one policy report) and have presented my work at several major conferences across the world. I have received accolades such as First Prize for Best Poster Presentation at Newcastle University’s Doctoral Conference (2024). I have also received two scholarships, a conference grant and am awaiting the outcome of two fellowships. I have managed multiple research assistance projects under senior academics such as Professors Giorgio Fazio, Sugata Marjit, and Simon Hussain. I have independently planned and organised two international academic conferences. I have contributed to departmental service through roles such as PhD student representative and university panelist for outreach programmes.\\ Future Research: Over the last decade, trade disruptions like the US-China trade war, COVID-19, Brexit, and tariffs given the presidential elections of the US have placed the UK at the center of a perfect storm. I plan to develop multi-country DSGE models and Structural Bayesian VARs
+
+to analyse these issues, with three research papers in mind."
 url                      : https://debkanikagupta.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "debkanikagupta/debkanikagupta.github.io"
@@ -32,7 +34,7 @@ author:
   email            : "d.gupta3@newcastle.ac.uk" 
 
   # Academic websites
-  linkedIn         :  "www.linkedin.com/in/debkanika-gupta-8671392a3"
+  linkedin         :  "www.linkedin.com/in/debkanika-gupta-8671392a3"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
@@ -46,12 +48,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
