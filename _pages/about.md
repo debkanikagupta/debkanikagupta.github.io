@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="font-size: 8px;">
+<div style="font-size: 9px;">
 I hold a PhD in Economics from [Newcastle University](https://www.ncl.ac.uk/business/people/profile/gupta-debkanika.html) pending minor corrections, with a research specialisation in macroeconomics, particularly applied to emerging economies. I am proficient in both theoretical and empirical methodologies. I have a master's and bachelor's in economics, with a minor in statistics and mathematics. 
 
 My teaching portfolio spans undergraduate and postgraduate levels. I have contributed to teaching as a seminar leader, lecture developer, and marker across various courses at Newcastle University, mainly in macroeconomics. My commitment to high-quality teaching has been recognised through the award of Associate Fellowship of the Higher Education Academy (AFHEA). I have also helped with outreach programmes at Newcastle University as a postgraduate panelist. 
