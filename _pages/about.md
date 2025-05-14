@@ -74,15 +74,15 @@ India, one of the world’s fastest-growing major economies, has a significant i
 
  
  **“Working Capital and The Real Business Cycle in India”**
-</span>
+
 
  
 This paper explores the effects of fundamental shocks that translate into volatile country risk and real interest rate shocks and the role working capital plays in the transmission of these shocks to the business cycle of India.  This analysis is crucial, given the high level of country risk in India, the high volatility of real interest rates and the dependence of firms in India on working capital. Firstly, we analyse the DSGE model of Neumeyer and Perrie (2005) for India from 1996Q2 to 2018Q4 and show how the impact of shocks on the business cycle changes with different levels of the working capital parameter. Secondly, we use mixed-frequency Bayesian Vector Autoregression Models (MF-BVAR) from 1996Q2 to 2018Q4 with sign restrictions to validate the model empirically. The identification of the MF-BVAR model is obtained from the analysis of the underlying DSGE model. We find that foreign real interest rate shocks and country risk shocks result in real interest rate shocks which impact the business cycle of India negatively. We further find that country risk shocks can be induced by changes in productivity level in India.  The high dependence of country risk on productivity levels amplifies the impact of productivity shocks on the Indian economy. The higher the working capital, the greater the impact of foreign interest rate shocks and country risk shocks on the Indian economy. Working capital only impacts the Indian economy via the interest rate channel. Changes in working capital influence the impact of productivity shocks on the Indian economy, only in the scenario where country risk is dependent on productivity.
-</span> 
+  
 
  
 *Presented at: Conference on Open Economy DSGE Modelling with Applications to Emerging Economies, City, University of London, The UK; Economics Department Seminar Series, Newcastle University, The UK, International Newcastle Economics Research and Development (NERD) Conference, Newcastle University, The UK.* 
-</span>
+ 
  
  
  **“US-China Real Interest Rates and The Informal Sector of Emerging Economies”**
