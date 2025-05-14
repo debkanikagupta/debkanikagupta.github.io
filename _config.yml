@@ -199,6 +199,21 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+header:
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Talks"
+    url: /talks/
+  - title: "Blog Posts"
+    url: /blog/
+  - title: "CV"
+    url: /cv/
+  - title: "Guide"
+    url: /guide/
 
 # Markdown Processing
 kramdown:
