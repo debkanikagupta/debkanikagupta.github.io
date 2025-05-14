@@ -82,11 +82,11 @@ header:
     url: /publications/
   - title: "Teaching"
     url: /teaching/
- - title: "Talks"
+  - title: "Talks"
     url: /talks/
-     - title: "Blog Posts"
+  - title: "Blog Posts"
     url: /blog/
- - title: "CV"
+  - title: "CV"
     url: /cv/
-      - title: "Guide"
+  - title: "Guide"
     url: /guide/
