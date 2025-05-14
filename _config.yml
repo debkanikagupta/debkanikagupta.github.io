@@ -13,7 +13,7 @@ title                    : "Debkanika Gupta"
 title_separator          : "-"
 name                     : &name "Debkanika Gupta"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://debkanikagupta.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "debkanikagupta/debkanikagupta.github.io"
 
@@ -26,7 +26,7 @@ author:
   name             : "Debkanika Gupta"
   pronouns         :  example: "she/her"  
   bio              : "PhD Student"
-  location         : "Earth"
+  location         : #"Earth"
   employer         : "Newcastle University"
   uri              : # URL
   email            : "d.gupta3@newcastle.ac.uk" 
