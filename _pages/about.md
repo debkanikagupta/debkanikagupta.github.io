@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="font-size: 12pt;">
+
 I hold a PhD in Economics from [Newcastle University](https://www.ncl.ac.uk/business/people/profile/gupta-debkanika.html) pending minor corrections, with a research specialisation in macroeconomics, particularly applied to emerging economies. I am proficient in both theoretical and empirical methodologies. I have a master's and bachelor's in economics, with a minor in statistics and mathematics. 
 
 My teaching portfolio spans undergraduate and postgraduate levels. I have contributed to teaching as a seminar leader, lecture developer, and marker across various courses at Newcastle University, mainly in macroeconomics. My commitment to high-quality teaching has been recognised through the award of Associate Fellowship of the Higher Education Academy (AFHEA). I have also helped with outreach programmes at Newcastle University as a postgraduate panelist. 
@@ -68,6 +68,6 @@ This paper explores the effects of fundamental shocks that translate into volati
  
 The study attempts to find the differential spillover impact of the US and China's real interest rate shocks on the informal sector and the general economy of blocks of African, South Asian, and South American emerging countries from 1990 to 2020 using Global Bayesian VAR with sign restrictions. We compare the performance of 16 models with different priors and find Stochastic Search Variable Selection prior, with Stochastic Volatility and no Trend to be the best-fit model for our analysis. We find that the South American economies and their informal output are the most impacted by both the US and China's real interest rate shocks when compared with emerging economies in Africa and South Asia. China's real interest rate shocks have more of an impact on South Asian emerging economies than the US real interest rate shocks. Among South Asian countries, India, Pakistan, and Sri Lanka seem to bear the brunt of the shocks. The distribution of the impact of the shocks on the emerging economies of Africa and South America is more even. US real interest rate shocks impact South American informal output and government expenditure more than China's real interest rate shocks, while China impacts South America more when it comes to gross fixed capital formation. The effect of foreign real interest rate shocks on informal sectors of emerging countries depends on trade linkages with that country and the nature and structure of the informal economy. Robustness checks, conducted with the second most suitable model as per the tests for Bayesian model comparison, the Normal Gamma Model with Trend and Stochastic Volatility, yield similar results. 
 
-</div>
+
 ------
 
