@@ -22,7 +22,7 @@ I  have managed multiple research assistance projects under senior academics suc
 Future Research: Over the last decade, trade disruptions like the US-China trade war, COVID-19, Brexit, and tariffs given the presidential elections of the US have placed the UK at the center of a perfect storm. I plan to develop multi-country DSGE models and Structural Bayesian VARs to analyse these issues, with three research papers in mind.
    
  
-Here is my [CV](/files/Debkanika_CV%20(10).pdf).
+Here is my [CV](/files/Debkanika_CV(36).pdf).
 
 ------
 ***Job Market Paper***
