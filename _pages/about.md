@@ -24,7 +24,7 @@ I  have managed multiple research assistance projects under senior academics suc
 Here is my [CV](files/Debkanika.pdf).
 
 ------
-***Job Market Paper***
+[***Job Market Paper***](files/Debkanikajob.pdf)
 
  **“The Informal- Formal Economy Interlock: Evidence from the Indian Business Cycle” cowritten with Prof. Giorgio Fazio and Dr. Marco Lorusso**
  
