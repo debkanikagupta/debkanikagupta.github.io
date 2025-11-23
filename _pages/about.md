@@ -21,7 +21,7 @@ I  have managed multiple research assistance projects under senior academics suc
 
    
  
-Here is my [CV](files/Debkanika.pdf).
+Here is my [CV](files/DebkanikaCV.pdf).
 
 ------
 [***Job Market Paper***](files/Debkanika_job.pdf)
